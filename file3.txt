@@ -1,0 +1,8 @@
+int main( )
+{
+ int z;
+ int c;
+ z = 717_4_-_0_*_
+ cin << c;
+ cout << z << " " << c;
+}

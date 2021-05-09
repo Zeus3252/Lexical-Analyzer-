@@ -1,0 +1,6 @@
+int main( )
+{
+ int x;
+ x = 45_4_+_2_*_
+ cout << x;
+}

@@ -1,0 +1,8 @@
+int main()
+{    
+    int number;
+    number = 817_0_+_11_*_
+    
+    cout << "You entered " << number;    
+    return 0;
+}
